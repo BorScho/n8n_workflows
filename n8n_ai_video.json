@@ -4,7 +4,7 @@
     "instanceId": "3378b0d68c3b7ebfc71b79896d94e1a044dec38e99a1160aed4e9c323910fbe2",
     "templateId": "3121"
   },
-  "name": "AI-Powered Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all social networks",
+  "name": "AI-Powered VERY Short-Form Video Generator with OpenAI, Flux, Kling, and ElevenLabs and upload to all social networks",
   "tags": [],
   "nodes": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": "f477250a-fc8e-407e-a632-cffc0e564596",
-      "name": "Generate Image",
+      "name": "Generate  VERY Image",
       "type": "n8n-nodes-base.httpRequest",
       "position": [
         880,
